@@ -19,9 +19,7 @@ This logo pack contains the following versions of the logo in various formats an
 
 ### Print & Screen Versions
 
-Both the Graphic and Micro versions of the logo include versions for print (CMYK colour space) and screen (RGB colour space) usage.
-
-All Adobe Illustrator files include colour swatches of valid colour's for the Crest. Note that the wording "University of Lincoln" must only appear in black, white or block silver (depending upon the background).
+In the AI format, both the Graphic and Micro versions of the logo include versions for print (CMYK colour space) and screen (RGB colour space) usage. These files also include colour swatches of valid colours for the Crest: black, grey and white, including PANTONE spot colours where valid. The Crest may also appear in block silver on prestige publications. Note that the wording "University of Lincoln" must only appear in black, white or block silver (depending upon the background).
 
 ## Logo Usage
 
