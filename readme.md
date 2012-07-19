@@ -17,9 +17,21 @@ This logo pack contains the following versions of the logo in various formats an
 * Micro Crest with lettering
 * Micro Crest without lettering
 
-### Print & Screen Versions
+### Vector vs Raster
 
-In the AI format, both the Graphic and Micro versions of the logo include versions for print (CMYK colour space) and screen (RGB colour space) usage. These files also include colour swatches of valid colours for the Crest: black, grey and white, including PANTONE spot colours where valid. The Crest may also appear in block silver on prestige publications. Note that the wording "University of Lincoln" must only appear in black, white or block silver (depending upon the background).
+This pack includes the logo in both vector and raster formats. Wherever possible you should use a vector format of the logo (AI, EPS or SVG) since these scale with no loss of quality.
+
+If you are using a raster format, please make sure you are using a version which will display or be printed at a suitable resolution. If you are unsure of what a suitable resolution is, please refer to the University's marketing department for guidance.
+
+### AI and EPS Formats
+
+In the AI and EPS formats, both the Graphic and Micro versions of the logo include versions for print (CMYK colour space) and screen (RGB colour space) usage. There is a single file for each variant of the logo, including colour swatches of valid colours for the Crest: black, grey and white; and PANTONE spot colours where valid. The Crest may also appear in block silver on prestige publications. Note that the wording "University of Lincoln" must only appear in black, white or block silver (depending upon the background).
+
+### SVG and Raster Formats
+
+All SVG and raster image formats only include versions of the logo in the RGB colour space, but do include versions with the crest in black, grey and white.
+
+Note that the SVG format does *not* include the classic version of the Crest, since this amount of detail is not recommended for instances where SVG is commonly used. If you need a vector version of the classic Crest, use AI or EPS formats.
 
 ## Logo Usage
 
