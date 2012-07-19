@@ -6,7 +6,7 @@ The University of Lincoln Crest is copyrighted to the University and can only be
 
 ## Pack Contents
 
-This logo pack contains the following versions of the logo in various formats and colour combinations for use in most scenarios. If you are unsure which version to use, please refer to the University's marketing department for guidance.
+This logo pack contains the following versions of the logo in various formats and colour combinations for use in most scenarios. If you are unsure which version or format to use, please refer to the University's marketing department for guidance.
 
 * Classic Crest (Greyscale), Portrait
 * Classic Crest (Greyscale), Landscape
