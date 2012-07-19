@@ -29,7 +29,9 @@ In the AI and EPS formats, both the Graphic and Micro versions of the logo inclu
 
 ### SVG and Raster Formats
 
-All SVG and raster image formats only include versions of the logo in the RGB colour space, but do include versions with the crest in black, grey and white.
+All SVG and raster image formats only include versions of the logo in the RGB colour space, but do include versions with the crest and lettering in all valid combinations of black, white and grey. Note that all image backgrounds are transparent.
+
+Raster versions are available in a range of sizes to suit most uses; if a raster version is not available at the scale you wish to use it then you should probably either not be using the logo that small, or are printing at a large enough size to warrant use of a vector format.
 
 Note that the SVG format does *not* include the classic version of the Crest, since this amount of detail is not recommended for instances where SVG is commonly used. If you need a vector version of the classic Crest, use AI or EPS formats.
 
