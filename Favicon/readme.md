@@ -11,7 +11,7 @@ This folder contains a variety of favicon (and `apple-touch-icon`) formats and s
 <link rel="icon" sizes="48x48" type="image/png" href="favicon_48.png">
 <link rel="icon" sizes="64x64" type="image/png" href="favicon_64.png">
 <link rel="icon" sizes="128x128" type="image/png" href="favicon_128.png">
-<link rel="apple-touch-icon-precomposed" sizes="57x75" href="touch-icon-57.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="touch-icon-57.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="touch-icon-72.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="touch-icon-114.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="touch-icon-144.png">
